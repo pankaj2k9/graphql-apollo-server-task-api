@@ -1,6 +1,6 @@
 # get into project folder
 
-cd into project folder
+cd graphql-apollo-api-part2
 
 # install dependencies
 
@@ -9,5 +9,3 @@ cd into project folder
 # Run local dev server
 
 npm run dev
-
-
