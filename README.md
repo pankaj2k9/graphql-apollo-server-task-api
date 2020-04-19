@@ -1,6 +1,6 @@
 # get into project folder
 
-cd graphql-apollo-api-part2
+cd graphql-apollo-server-task-api
 
 # install dependencies
 
